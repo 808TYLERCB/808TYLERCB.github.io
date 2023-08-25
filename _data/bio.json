@@ -15,11 +15,11 @@
     ]
   },
   "interests": [
-    { "name": "Programming" },
-    { "name": "AI Development" },
+    { "name": "Software Development" },
+    { "name": "Project Management" },
     { "name": "UX Design" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web Design" },
+    { "name": "Networking" }
   ],
   "skills": [
     {
