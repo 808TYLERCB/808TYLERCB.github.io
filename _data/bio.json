@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tyler Brede",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://avatars.githubusercontent.com/u/143175038?s=400&u=773aaae6ade1c991f1134cc7a589d662e32339b9&v=4",
+    "email": "tylercb@hawaii.edu",
+    "phone": "808-987-6680",
+    "website": "https://808tylercb.github.io",
+    "summary": "I am studying for a B.A. in Management Information Systems (MIS) in the Department of MIS at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "909 Kapiolani Blvd.", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "808TYLERCB", "url": "https://github.com/808TYLERCB" },
+      { "network": "linkedin", "username": "Tyler Brede", "url": "http://linkedin.com/in/changeme" },
+
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Programming" },
+    { "name": "AI Development" },
+    { "name": "UX Design" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
