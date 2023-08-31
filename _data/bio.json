@@ -8,7 +8,7 @@
       "website":"https://808tylercb.github.io",
       "summary":"I am studying for a BBA in Management Information Systems (MIS) in the Department of MIS at the University of Hawaii. I expect to graduate in Fall, 2024.",
       "location":{
-         "address":"909 Kapiolani Blvd.",
+         "address":"",
          "postalCode":"96814",
          "city":"Honolulu",
          "countryCode":"USA",
@@ -23,7 +23,7 @@
          {
             "network":"linkedin",
             "username":"Tyler Brede",
-            "url":"http://linkedin.com/in/changeme"
+            "url":""
          }
       ]
    },
