@@ -12,6 +12,8 @@ labels:
   - Practice Coding
 ---
 
+<p> <a href="https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html">WOD 5.1</a> 
+
 
 
 
